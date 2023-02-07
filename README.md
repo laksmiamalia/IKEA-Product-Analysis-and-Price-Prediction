@@ -13,6 +13,10 @@ IKEA constantly challenging themselves and others to make more from less without
 
 There are some up and down for **IKEA** Net Income thorough the years, that probably caused by the amount of online selling, operational cost, and cost of goods sold.
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/113813929/217253726-a2282e87-0e61-4387-b0da-2a6eda5ace57.png">
+</p>
+
 Here we try to analyze IKEA Product based on it price, availability online, color option, and size dimension, and we also create modeling for product price prediction with **Linear Regression**. Goals for this project are to know what exactly affect the price of product, and find out what exactly can help increase the Net Income.
 
 ## SETUP
