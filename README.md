@@ -1,4 +1,4 @@
-# IKEA-Product-Analysis-and-Price-Prdiction
+# IKEA-Product-Analysis-and-Price-Prediction
 Analyzing IKEA Product Analysis and create Model for Product Price Prediction Using Linear Regression Model
 
 <p align="center">
